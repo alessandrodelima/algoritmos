@@ -1,0 +1,13 @@
+Execícios de algoritmos - Controle de repetição 
+
+IF 
+
+01 - Ler a idade de uma pessoa e imprimir a mensagem: "Você é maior de idade" se ela tiver 18 anos ou mais. 
+
+02 - Ler a idade de uma pessoa e imprimir a mensagem: "Você é maior de idade" se ela tiver 18 anos ou mais, ou "Você é menor de idade" caso contrário
+
+03 - Ler um número inteiro e dizer se ele é par ou impar. 
+
+04 - Entrar com uma distância (Km) e o tempo de viagem (horas) de um automóvel, e dizer se a velicidade média foi superior ao limite (110 km) ou não. 
+
+
